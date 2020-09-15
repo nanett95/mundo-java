@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 //Mi clase en Java
-public class ValoresPrimitivosEnteros {
+public class ValoresPrimitivosEnterosTema7 {
 
     public static void main(String args[]) {
         /*

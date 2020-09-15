@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 //Mi clase en Java
-public class UsoDeCaracteres {
+public class UsoDeCaracteresTema11 {
 
     public static void main(String args[]) {
        char miCaracter = 'a';
